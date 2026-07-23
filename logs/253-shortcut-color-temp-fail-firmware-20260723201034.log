@@ -1,0 +1,574 @@
+﻿[2026-07-23 20:05:36.958] B�i�
+[2026-07-23 20:05:36.958] w9ZF�gV�sg�B���ac�free heap: 6300024, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6300024The current date/time is: Thu Jul 23 12:05:32 2026
+[2026-07-23 20:05:36.958] 
+[2026-07-23 20:05:36.958] 
+[2026-07-23 20:05:40.111] [0;32mI (17758333) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:05:40.111] 
+[2026-07-23 20:05:40.148] [0;32mI (17758370) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:05:40.148] 
+[2026-07-23 20:05:40.318] [0;32mI (17758538) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:05:40.318] 
+[2026-07-23 20:05:40.524] [0;32mI (17758745) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:05:40.524] 
+[2026-07-23 20:05:44.962] free heap: 6245152, minimum free heap: 6019168, Internal 8bit free heap: 71664, 8bit free heap: 6245152The current date/time is: Thu Jul 23 12:05:40 2026
+[2026-07-23 20:05:44.962] 
+[2026-07-23 20:05:44.962] 
+[2026-07-23 20:05:45.236] [0;32mI (17763458) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:05:45.236] 
+[2026-07-23 20:05:45.260] [0;32mI (17763481) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:05:45.260] 
+[2026-07-23 20:05:45.360] [0;32mI (17763581) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:05:45.360] 
+[2026-07-23 20:05:45.602] [0;32mI (17763824) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:05:45.602] 
+[2026-07-23 20:05:46.407] Nanoleaf MQTT payload: {"msgType":"control","requestID":"94bdae83-c1ea-47a1-8d02-223c6274ba67","deviceId":"7DC653911819","endpoint":"lb/0/ct","method":"POST","value":1200}
+[2026-07-23 20:05:46.407] [0;32mI (17764624) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/ct[0m
+[2026-07-23 20:05:46.407] 
+[2026-07-23 20:05:46.667] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:05:46.667] pData:{"msgType":"respond","requestID":"94bdae83-c1ea-47a1-8d02-223c6274ba67","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:05:46.667] 
+[2026-07-23 20:05:46.703] [0;32mI (17764925) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:05:46.703] 
+[2026-07-23 20:05:49.978] [0;32mI (17768190) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:05:49.978] [0;32mI (17768203) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:05:49.978] 
+[2026-07-23 20:05:50.087] [0;32mI (17768304) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:05:50.087] 
+[2026-07-23 20:05:51.602] [0;32mI (17769816) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:05:51.602] 
+[2026-07-23 20:05:52.966] free heap: 6300152, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300152The current date/time is: Thu Jul 23 12:05:48 2026
+[2026-07-23 20:05:52.966] 
+[2026-07-23 20:05:52.966] 
+[2026-07-23 20:05:55.109] [0;32mI (17773305) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:05:55.109] [0;32mI (17773322) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:05:55.109] 
+[2026-07-23 20:05:55.292] [0;32mI (17773507) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:05:55.292] 
+[2026-07-23 20:05:56.821] [0;32mI (17775035) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:05:56.821] 
+[2026-07-23 20:06:00.520] [0;32mI (17778736) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:00.520] 
+[2026-07-23 20:06:00.737] [0;32mI (17778955) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:00.737] 
+[2026-07-23 20:06:00.815] [0;32mI (17779023) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:00.815] 
+[2026-07-23 20:06:00.970] free heap: 6300160, minimum free heap: 6019168, Internal 8bit free heap: 71836, 8bit free heap: 6300160The current date/time is: Thu Jul 23 12:05:56 2026
+[2026-07-23 20:06:00.970] 
+[2026-07-23 20:06:00.970] 
+[2026-07-23 20:06:02.029] [0;32mI (17780250) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:02.029] 
+[2026-07-23 20:06:03.085] Nanoleaf MQTT payload: {"msgType":"control","requestID":"2919b765-c958-419e-9485-eebef53761b2","deviceId":"7DC653911819","endpoint":"lb/0/hu","method":"POST","value":26}
+[2026-07-23 20:06:03.085] [0;32mI (17781295) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/hu[0m
+[2026-07-23 20:06:03.085] 
+[2026-07-23 20:06:03.641] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:03.641] pData:{"msgType":"respond","requestID":"2919b765-c958-419e-9485-eebef53761b2","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:03.641] 
+[2026-07-23 20:06:03.780] [0;32mI (17781993) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:03.780] 
+[2026-07-23 20:06:05.142] [0;32mI (17783350) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:05.142] 
+[2026-07-23 20:06:05.375] [0;32mI (17783569) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:05.375] Nanoleaf MQTT payload: {"msgType":"control","requestID":"93afe8aa-24a8-4763-a471-1c6d4f1267c4","deviceId":"7DC653911819","endpoint":"lb/0/sa","method":"POST","value":82}
+[2026-07-23 20:06:05.375] 
+[2026-07-23 20:06:05.514] [0;32mI (17783732) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:05.514] 
+[2026-07-23 20:06:05.623] [0;32mI (17783833) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/sa[0m
+[2026-07-23 20:06:05.623] 
+[2026-07-23 20:06:06.072] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:06.072] pData:{"msgType":"respond","requestID":"93afe8aa-24a8-4763-a471-1c6d4f1267c4","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:06.072] 
+[2026-07-23 20:06:06.289] [0;32mI (17784453) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:06.289] [0;32mI (17784454) TASK_NL: [3] Status changed: on=1 br=53 ct=2381 hu=26 sa=82 eff="*Solid*"[0m
+[2026-07-23 20:06:06.289] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_property
+[2026-07-23 20:06:06.289] pData:{"msgType":"status","deviceId":"7DC653911819","timestamp":1784808366,"endpoints":[{"endpoint":"lb/0/oo","value":true},{"endpoint":"lb/0/pb","value":53},{"endpoint":"lb/0/ct","value":2381},{"endpoint":"lb/0/hu","value":26},{"endpoint":"lb/0/sa","value":82},{"endpoint":"effect/select","value":"*Solid*"}]}
+[2026-07-23 20:06:06.289] 
+[2026-07-23 20:06:08.368] uart: 11 AT+MOTION 0
+[2026-07-23 20:06:08.368] 
+[2026-07-23 20:06:08.368] 
+[2026-07-23 20:06:08.368] btn on press
+[2026-07-23 20:06:08.368] uart: 130 AT+BCDS ff04000206a6203ab 0010B940B0E9FEC6718C48ca43a5b6dc0F00bb000a09973545000000000000ff0c0c00000000000000000000000000000000ff01
+[2026-07-23 20:06:08.368] 
+[2026-07-23 20:06:08.368] 
+[2026-07-23 20:06:08.368] 
+[2026-07-23 20:06:08.523] pTopic:$aws/rules/bi_wifi_data_report/switchlink/B0E9FEC6718C/link_to_shadow
+[2026-07-23 20:06:08.523] pData:BCD ff04000206a6203ab 0010B940B0E9FEC6718C48ca43a5b6dc0F00bb000a09973545000000000000ff0c0c00000000000000000000000000000000ff01
+[2026-07-23 20:06:08.523] 
+[2026-07-23 20:06:08.631] [0;32mI (17786839) TASK_NL: ExecuteScan: trigger=scheduled[0m
+[2026-07-23 20:06:08.631] 
+[2026-07-23 20:06:09.004] free heap: 6299260, minimum free heap: 6019168, Internal 8bit free heap: 71552, 8bit free heap: 6299260The current date/time is: Thu Jul 23 12:06:04 2026
+[2026-07-23 20:06:09.004] 
+[2026-07-23 20:06:09.004] 
+[2026-07-23 20:06:11.703] [0;32mI (17789885) TASK_NL: Scan[0]: name=4D FEB8 ip=192.168.50.160 id=72:C7:43:07:62:13 model=NL69 fw=12.3.6[0m
+[2026-07-23 20:06:11.703] [0;32mI (17789886) TASK_NL: Scan[1]: name=Elements 88E6 ip=192.168.50.16 id=7D:C6:53:91:18:19 model=NL52 fw=12.2.3[0m
+[2026-07-23 20:06:11.703] [0;32mI (17789895) TASK_NL: Scan[2]: name=Lines B5D2 ip=192.168.50.201 id=3E:0A:E0:49:41:82 model=NL59 fw=12.2.3[0m
+[2026-07-23 20:06:11.703] [0;32mI (17789906) TASK_NL: Scan[3]: name=Shapes 2201 ip=192.168.50.119 id=88:0A:64:77:5B:01 model=NL42 fw=12.1.1[0m
+[2026-07-23 20:06:11.703] [0;32mI (17789917) TASK_NL: ExecuteScan: found 4 devices, publishing[0m
+[2026-07-23 20:06:11.703] 
+[2026-07-23 20:06:11.813] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_maint
+[2026-07-23 20:06:11.813] pData:{"msgType":"nanoleaf_scan","trigger":"scheduled","timestamp":1784808372,"managed":{"total":4,"devices":[{"deviceId":"880A64775B01","clientId":1,"state":"active","online":1},{"deviceId":"3E0AE0494182","clientId":1,"state":"active","online":1},{"deviceId":"72C743076213","clientId":3,"state":"active","online":1},{"deviceId":"7DC653911819","clientId":3,"state":"active","online":1}]},"devices":[{"deviceId":"72:C7:43:07:62:13","ip":"192.168.50.160","port":12566,"model":"NL69","firmware":"12.3.6"},{"deviceId":"7D:C6:53:91:18:19","ip":"192.168.50.16","port":12566,"model":"NL52","firmware":"12.2.3"},{"deviceId":"3E:0A:E0:49:41:82","ip":"192.168.50.201","port":12566,"model":"NL59","firmware":"12.2.3"},{"deviceId":"88:0A:64:77:5B:01","ip":"192.168.50.119","port":12566,"model":"NL42","firmware":"12.1.1"}]}
+[2026-07-23 20:06:11.813] 
+[2026-07-23 20:06:11.921] [0;32mI (17790101) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:11.921] [0;32mI (17790138) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:11.921] 
+[2026-07-23 20:06:11.968] [0;32mI (17790184) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:11.968] 
+[2026-07-23 20:06:12.092] [0;32mI (17790301) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:12.092] 
+[2026-07-23 20:06:15.597] uart: 11 AT+MOTION 1
+[2026-07-23 20:06:15.597] 
+[2026-07-23 20:06:15.597] 
+[2026-07-23 20:06:15.597] btn on press
+[2026-07-23 20:06:15.597] uart: 130 AT+BCDS ff04000206a6203b2 0010B940B0E9FEC6718C48ca43a5b6dc0F00bc200a09973545000000000000ff0c1300000000000000000000000000000000ff01
+[2026-07-23 20:06:15.597] 
+[2026-07-23 20:06:15.597] 
+[2026-07-23 20:06:15.597] 
+[2026-07-23 20:06:15.659] pTopic:$aws/rules/bi_wifi_data_report/switchlink/B0E9FEC6718C/link_to_shadow
+[2026-07-23 20:06:15.659] pData:BCD ff04000206a6203b2 0010B940B0E9FEC6718C48ca43a5b6dc0F00bc200a09973545000000000000ff0c1300000000000000000000000000000000ff01
+[2026-07-23 20:06:15.659] 
+[2026-07-23 20:06:17.040] free heap: 6246860, minimum free heap: 6019168, Internal 8bit free heap: 71796, 8bit free heap: 6246860The current date/time is: Thu Jul 23 12:06:12 2026
+[2026-07-23 20:06:17.040] 
+[2026-07-23 20:06:17.040] [0;32mI (17795234) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:17.040] [0;32mI (17795262) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:17.040] 
+[2026-07-23 20:06:17.612] [0;32mI (17795811) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:17.612] [0;32mI (17795824) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:17.612] 
+[2026-07-23 20:06:19.351] uart: 19 AT+TEMPHUMI +241 52
+[2026-07-23 20:06:19.351] 
+[2026-07-23 20:06:19.351] 
+[2026-07-23 20:06:19.351] temp_ep:65535,temp_data:2410 humi_ep:65535,humi_data:5200
+[2026-07-23 20:06:19.351] 
+[2026-07-23 20:06:19.351] 
+[2026-07-23 20:06:20.779] Nanoleaf MQTT payload: {"msgType":"control","requestID":"770323fb-2b8a-434a-95a5-54395b152784","deviceId":"7DC653911819","endpoint":"lb/0/ct","method":"POST","value":6500}
+[2026-07-23 20:06:20.779] 
+[2026-07-23 20:06:20.856] [0;32mI (17799068) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/ct[0m
+[2026-07-23 20:06:20.856] 
+[2026-07-23 20:06:20.917] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:20.917] pData:{"msgType":"respond","requestID":"770323fb-2b8a-434a-95a5-54395b152784","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:20.917] 
+[2026-07-23 20:06:21.180] [0;32mI (17799398) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:21.180] 
+[2026-07-23 20:06:21.955] [0;32mI (17800132) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:21.955] [0;32mI (17800139) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:21.955] [0;32mI (17800171) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:21.955] 
+[2026-07-23 20:06:25.039] free heap: 6300024, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6300024The current date/time is: Thu Jul 23 12:06:20 2026
+[2026-07-23 20:06:25.039] 
+[2026-07-23 20:06:25.039] 
+[2026-07-23 20:06:25.905] [0;32mI (17804127) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:25.905] 
+[2026-07-23 20:06:27.037] [0;32mI (17805248) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:27.037] [0;32mI (17805254) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:27.037] 
+[2026-07-23 20:06:27.068] [0;32mI (17805287) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:27.068] 
+[2026-07-23 20:06:31.032] [0;32mI (17809243) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:31.032] 
+[2026-07-23 20:06:32.504] [0;32mI (17810722) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:32.504] 
+[2026-07-23 20:06:32.877] [0;32mI (17811079) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:32.877] Nanoleaf MQTT payload: {"msgType":"control","requestID":"45b10e8d-ec91-4cbb-8763-aa9dfb287097","deviceId":"7DC653911819","endpoint":"lb/0/ct","method":"POST","value":6500}
+[2026-07-23 20:06:32.877] 
+[2026-07-23 20:06:33.064] free heap: 6246728, minimum free heap: 6019168, Internal 8bit free heap: 71664, 8bit free heap: 6246728The current date/time is: Thu Jul 23 12:06:28 2026
+[2026-07-23 20:06:33.064] 
+[2026-07-23 20:06:33.064] [0;32mI (17811277) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:33.064] 
+[2026-07-23 20:06:33.205] [0;32mI (17811423) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/ct[0m
+[2026-07-23 20:06:33.205] 
+[2026-07-23 20:06:33.439] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:33.439] pData:{"msgType":"respond","requestID":"45b10e8d-ec91-4cbb-8763-aa9dfb287097","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:33.439] 
+[2026-07-23 20:06:33.485] [0;32mI (17811695) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:33.485] 
+[2026-07-23 20:06:36.998] [0;32mI (17815205) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:36.998] [0;32mI (17815225) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:36.998] 
+[2026-07-23 20:06:37.060] [0;32mI (17815273) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:37.060] 
+[2026-07-23 20:06:38.692] [0;32mI (17816910) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:38.692] 
+[2026-07-23 20:06:41.059] free heap: 6300112, minimum free heap: 6019168, Internal 8bit free heap: 71788, 8bit free heap: 6300112The current date/time is: Thu Jul 23 12:06:36 2026
+[2026-07-23 20:06:41.059] 
+[2026-07-23 20:06:41.059] 
+[2026-07-23 20:06:42.129] [0;32mI (17820327) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:42.129] [0;32mI (17820349) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:42.129] 
+[2026-07-23 20:06:42.176] [0;32mI (17820393) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:42.176] 
+[2026-07-23 20:06:43.426] [0;32mI (17821644) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:43.426] 
+[2026-07-23 20:06:44.837] Nanoleaf MQTT payload: {"msgType":"control","requestID":"d35ded31-a0ed-4434-a917-4e1db97915ad","deviceId":"7DC653911819","endpoint":"lb/0/hu","method":"POST","value":26}
+[2026-07-23 20:06:44.837] 
+[2026-07-23 20:06:44.930] [0;32mI (17823144) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/hu[0m
+[2026-07-23 20:06:44.930] 
+[2026-07-23 20:06:45.165] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:45.165] pData:{"msgType":"respond","requestID":"d35ded31-a0ed-4434-a917-4e1db97915ad","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:45.165] 
+[2026-07-23 20:06:45.353] [0;32mI (17823568) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:45.353] 
+[2026-07-23 20:06:46.502] Nanoleaf MQTT payload: {"msgType":"control","requestID":"cff9cfd8-2ac3-474b-93af-4484e27de050","deviceId":"7DC653911819","endpoint":"lb/0/sa","method":"POST","value":6}
+[2026-07-23 20:06:46.502] 
+[2026-07-23 20:06:46.548] [0;32mI (17824768) NL_LTPDU: SendCmd POST → 7DC653911819 ep=lb/0/sa[0m
+[2026-07-23 20:06:46.548] 
+[2026-07-23 20:06:46.984] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_func_resp
+[2026-07-23 20:06:46.984] pData:{"msgType":"respond","requestID":"cff9cfd8-2ac3-474b-93af-4484e27de050","deviceId":"7DC653911819","success":true,"errorCode":0,"errorMsg":""}
+[2026-07-23 20:06:46.984] 
+[2026-07-23 20:06:47.030] [0;32mI (17825237) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:47.030] [0;32mI (17825238) TASK_NL: [3] Status changed: on=1 br=53 ct=4000 hu=26 sa=6 eff="*Solid*"[0m
+[2026-07-23 20:06:47.030] 
+[2026-07-23 20:06:47.200] pTopic:switchlink/B0E9FEC6718C/link_to_nanoleaf_property
+[2026-07-23 20:06:47.200] pData:{"msgType":"status","deviceId":"7DC653911819","timestamp":1784808407,"endpoints":[{"endpoint":"lb/0/oo","value":true},{"endpoint":"lb/0/pb","value":53},{"endpoint":"lb/0/ct","value":4000},{"endpoint":"lb/0/hu","value":26},{"endpoint":"lb/0/sa","value":6},{"endpoint":"effect/select","value":"*Solid*"}]}
+[2026-07-23 20:06:47.200] 
+[2026-07-23 20:06:47.294] [0;32mI (17825514) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:47.294] 
+[2026-07-23 20:06:47.356] [0;32mI (17825578) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:47.356] 
+[2026-07-23 20:06:47.403] [0;32mI (17825620) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:47.403] 
+[2026-07-23 20:06:49.062] free heap: 6300020, minimum free heap: 6019168, Internal 8bit free heap: 71696, 8bit free heap: 6300020The current date/time is: Thu Jul 23 12:06:44 2026
+[2026-07-23 20:06:49.062] 
+[2026-07-23 20:06:49.062] 
+[2026-07-23 20:06:52.210] [0;32mI (17830430) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:52.210] 
+[2026-07-23 20:06:52.535] [0;32mI (17830735) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:52.535] [0;32mI (17830741) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:52.535] [0;32mI (17830750) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:52.535] 
+[2026-07-23 20:06:57.093] free heap: 6246592, minimum free heap: 6019168, Internal 8bit free heap: 71528, 8bit free heap: 6246592The current date/time is: Thu Jul 23 12:06:52 2026
+[2026-07-23 20:06:57.093] 
+[2026-07-23 20:06:57.093] 
+[2026-07-23 20:06:57.375] [0;32mI (17835545) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:06:57.375] uart: 11 AT+MOTION 0
+[2026-07-23 20:06:57.375] 
+[2026-07-23 20:06:57.375] 
+[2026-07-23 20:06:57.375] btn on press
+[2026-07-23 20:06:57.375] uart: 130 AT+BCDS ff04000206a6203dc 0010B940B0E9FEC6718C48ca43a5b6dc0F00bd000a01983445000000000000ff0c2600000000000000000000000000000000ff01
+[2026-07-23 20:06:57.375] 
+[2026-07-23 20:06:57.375] 
+[2026-07-23 20:06:57.375] 
+[2026-07-23 20:06:57.468] [0;32mI (17835686) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:06:57.468] 
+[2026-07-23 20:06:57.516] pTopic:$aws/rules/bi_wifi_data_report/switchlink/B0E9FEC6718C/link_to_shadow
+[2026-07-23 20:06:57.516] pData:BCD ff04000206a6203dc 0010B940B0E9FEC6718C48ca43a5b6dc0F00bd000a01983445000000000000ff0c2600000000000000000000000000000000ff01
+[2026-07-23 20:06:57.516] 
+[2026-07-23 20:06:57.656] [0;32mI (17835861) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:06:57.656] [0;32mI (17835881) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:06:57.656] 
+[2026-07-23 20:07:02.891] [0;32mI (17841098) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:02.891] 
+[2026-07-23 20:07:03.000] [0;32mI (17841212) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:03.000] 
+[2026-07-23 20:07:03.280] [0;32mI (17841485) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:03.280] [0;32mI (17841498) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:03.280] 
+[2026-07-23 20:07:05.128] free heap: 6300132, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300132The current date/time is: Thu Jul 23 12:07:00 2026
+[2026-07-23 20:07:05.128] 
+[2026-07-23 20:07:05.128] 
+[2026-07-23 20:07:07.580] [0;32mI (17845791) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:07.580] 
+[2026-07-23 20:07:08.117] [0;32mI (17846332) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:08.117] 
+[2026-07-23 20:07:08.349] [0;32mI (17846570) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:08.349] 
+[2026-07-23 20:07:08.396] [0;32mI (17846612) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:08.396] 
+[2026-07-23 20:07:12.487] [0;32mI (17850702) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:12.487] 
+[2026-07-23 20:07:13.140] free heap: 6245176, minimum free heap: 6019168, Internal 8bit free heap: 71664, 8bit free heap: 6245176The current date/time is: Thu Jul 23 12:07:08 2026
+[2026-07-23 20:07:13.140] 
+[2026-07-23 20:07:13.140] 
+[2026-07-23 20:07:13.310] [0;32mI (17851529) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:13.310] 
+[2026-07-23 20:07:13.528] [0;32mI (17851721) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:13.528] [0;32mI (17851744) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:13.528] 
+[2026-07-23 20:07:17.267] [0;32mI (17855476) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:17.267] 
+[2026-07-23 20:07:18.434] [0;32mI (17856650) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:18.434] 
+[2026-07-23 20:07:18.588] [0;32mI (17856802) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:18.588] 
+[2026-07-23 20:07:18.852] [0;32mI (17857072) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:18.852] 
+[2026-07-23 20:07:21.158] free heap: 6300156, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300156The current date/time is: Thu Jul 23 12:07:16 2026
+[2026-07-23 20:07:21.158] 
+[2026-07-23 20:07:21.158] 
+[2026-07-23 20:07:22.359] [0;32mI (17860568) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:22.359] 
+[2026-07-23 20:07:22.608] uart: 11 AT+MOTION 1
+[2026-07-23 20:07:22.608] 
+[2026-07-23 20:07:22.608] 
+[2026-07-23 20:07:22.608] btn on press
+[2026-07-23 20:07:22.608] uart: 130 AT+BCDS ff04000206a6203f5 0010B940B0E9FEC6718C48ca43a5b6dc0F00be200a01983445000000000000ff0ae100000000000000000000000000000000ff01
+[2026-07-23 20:07:22.608] 
+[2026-07-23 20:07:22.608] 
+[2026-07-23 20:07:22.608] 
+[2026-07-23 20:07:22.764] pTopic:$aws/rules/bi_wifi_data_report/switchlink/B0E9FEC6718C/link_to_shadow
+[2026-07-23 20:07:22.764] pData:BCD ff04000206a6203f5 0010B940B0E9FEC6718C48ca43a5b6dc0F00be200a01983445000000000000ff0ae100000000000000000000000000000000ff01
+[2026-07-23 20:07:22.764] 
+[2026-07-23 20:07:23.356] [0;32mI (17861551) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:23.356] [0;32mI (17861580) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:23.356] 
+[2026-07-23 20:07:23.559] [0;32mI (17861776) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:23.559] 
+[2026-07-23 20:07:27.532] [0;32mI (17865755) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:27.532] 
+[2026-07-23 20:07:28.398] [0;32mI (17866608) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:28.398] 
+[2026-07-23 20:07:28.569] [0;32mI (17866778) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:28.569] [0;32mI (17866792) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:28.569] 
+[2026-07-23 20:07:29.158] free heap: 6300116, minimum free heap: 6019168, Internal 8bit free heap: 71788, 8bit free heap: 6300116The current date/time is: Thu Jul 23 12:07:24 2026
+[2026-07-23 20:07:29.158] 
+[2026-07-23 20:07:29.158] 
+[2026-07-23 20:07:32.678] [0;32mI (17870888) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:32.678] 
+[2026-07-23 20:07:33.605] [0;32mI (17871804) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:33.605] [0;32mI (17871831) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:33.605] 
+[2026-07-23 20:07:33.886] [0;32mI (17872102) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:33.886] 
+[2026-07-23 20:07:37.163] free heap: 6299984, minimum free heap: 6019168, Internal 8bit free heap: 71656, 8bit free heap: 6299984The current date/time is: Thu Jul 23 12:07:32 2026
+[2026-07-23 20:07:37.163] 
+[2026-07-23 20:07:37.163] 
+[2026-07-23 20:07:37.439] [0;32mI (17875647) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:37.439] 
+[2026-07-23 20:07:38.743] [0;32mI (17876925) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:38.743] [0;32mI (17876947) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:38.743] 
+[2026-07-23 20:07:38.928] [0;32mI (17877143) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:38.928] 
+[2026-07-23 20:07:42.589] [0;32mI (17880802) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:42.589] 
+[2026-07-23 20:07:43.577] [0;32mI (17881749) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:43.577] [0;32mI (17881765) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:43.577] [0;32mI (17881790) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:43.577] 
+[2026-07-23 20:07:45.208] free heap: 6300136, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300136The current date/time is: Thu Jul 23 12:07:40 2026
+[2026-07-23 20:07:45.208] 
+[2026-07-23 20:07:45.208] 
+[2026-07-23 20:07:47.724] [0;32mI (17885936) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:47.724] 
+[2026-07-23 20:07:48.647] [0;32mI (17886861) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:48.647] 
+[2026-07-23 20:07:48.757] [0;32mI (17886956) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:48.757] [0;32mI (17886982) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:48.757] 
+[2026-07-23 20:07:52.560] [0;32mI (17890774) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:52.560] 
+[2026-07-23 20:07:53.206] free heap: 6300156, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300156The current date/time is: Thu Jul 23 12:07:48 2026
+[2026-07-23 20:07:53.206] 
+[2026-07-23 20:07:53.206] 
+[2026-07-23 20:07:53.881] [0;32mI (17892070) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:53.881] [0;32mI (17892085) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:53.881] [0;32mI (17892101) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:53.881] 
+[2026-07-23 20:07:57.675] [0;32mI (17895896) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:07:57.675] 
+[2026-07-23 20:07:58.593] [0;32mI (17896812) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:07:58.593] 
+[2026-07-23 20:07:58.623] [0;32mI (17896843) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:07:58.623] 
+[2026-07-23 20:07:58.671] [0;32mI (17896880) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:07:58.671] 
+[2026-07-23 20:08:01.252] free heap: 6300028, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6300028The current date/time is: Thu Jul 23 12:07:56 2026
+[2026-07-23 20:08:01.252] 
+[2026-07-23 20:08:01.252] 
+[2026-07-23 20:08:02.972] [0;32mI (17901188) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:02.972] 
+[2026-07-23 20:08:03.701] [0;32mI (17901923) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:03.701] 
+[2026-07-23 20:08:03.732] [0;32mI (17901953) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:03.732] 
+[2026-07-23 20:08:03.794] [0;32mI (17902006) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:03.794] 
+[2026-07-23 20:08:04.708] [0;32mI (17902925) ROUTE_HOOK: Received RIO[0m
+[2026-07-23 20:08:04.708] [0;32mI (17902925) ROUTE_HOOK: prefix FDEA:C98F:38B2:1:: lifetime 1800[0m
+[2026-07-23 20:08:04.708] 
+[2026-07-23 20:08:07.648] [0;32mI (17905859) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:07.648] 
+[2026-07-23 20:08:08.825] [0;32mI (17907048) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:08.825] 
+[2026-07-23 20:08:08.857] [0;32mI (17907080) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:08.857] 
+[2026-07-23 20:08:08.919] [0;32mI (17907127) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:08.919] 
+[2026-07-23 20:08:09.260] free heap: 6300136, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300136The current date/time is: Thu Jul 23 12:08:04 2026
+[2026-07-23 20:08:09.260] 
+[2026-07-23 20:08:09.260] 
+[2026-07-23 20:08:12.768] [0;32mI (17910980) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:12.768] 
+[2026-07-23 20:08:13.947] [0;32mI (17912162) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:13.947] 
+[2026-07-23 20:08:13.978] [0;32mI (17912201) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:13.978] 
+[2026-07-23 20:08:14.025] [0;32mI (17912238) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:14.025] 
+[2026-07-23 20:08:14.365] uart: 19 AT+TEMPHUMI +239 52
+[2026-07-23 20:08:14.365] 
+[2026-07-23 20:08:14.365] 
+[2026-07-23 20:08:14.365] temp_ep:65535,temp_data:2390 humi_ep:65535,humi_data:5200
+[2026-07-23 20:08:14.365] 
+[2026-07-23 20:08:14.365] 
+[2026-07-23 20:08:17.273] free heap: 6300156, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300156The current date/time is: Thu Jul 23 12:08:12 2026
+[2026-07-23 20:08:17.273] 
+[2026-07-23 20:08:17.273] 
+[2026-07-23 20:08:17.920] [0;32mI (17916138) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:17.920] 
+[2026-07-23 20:08:19.094] [0;32mI (17917303) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:19.094] 
+[2026-07-23 20:08:19.311] [0;32mI (17917531) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:19.311] 
+[2026-07-23 20:08:20.376] [0;32mI (17918597) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:20.376] 
+[2026-07-23 20:08:22.783] [0;32mI (17921003) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:22.783] 
+[2026-07-23 20:08:23.995] [0;32mI (17922176) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:23.995] [0;32mI (17922211) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:23.995] 
+[2026-07-23 20:08:24.073] [0;32mI (17922287) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:24.073] 
+[2026-07-23 20:08:25.265] free heap: 6300004, minimum free heap: 6019168, Internal 8bit free heap: 71696, 8bit free heap: 6300004The current date/time is: Thu Jul 23 12:08:20 2026
+[2026-07-23 20:08:25.265] 
+[2026-07-23 20:08:25.265] 
+[2026-07-23 20:08:28.198] [0;32mI (17926412) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:28.198] 
+[2026-07-23 20:08:29.131] [0;32mI (17927310) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:29.131] [0;32mI (17927350) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:29.131] 
+[2026-07-23 20:08:29.301] [0;32mI (17927510) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:29.301] 
+[2026-07-23 20:08:32.364] uart: 11 AT+MOTION 0
+[2026-07-23 20:08:32.364] 
+[2026-07-23 20:08:32.364] 
+[2026-07-23 20:08:32.364] btn on press
+[2026-07-23 20:08:32.364] uart: 130 AT+BCDS ff04000206a62043b 0010B940B0E9FEC6718C48ca43a5b6dc0F00bf000a09973445000000000000ff0a0900000000000000000000000000000000ff01
+[2026-07-23 20:08:32.364] 
+[2026-07-23 20:08:32.364] 
+[2026-07-23 20:08:32.364] 
+[2026-07-23 20:08:32.439] pTopic:$aws/rules/bi_wifi_data_report/switchlink/B0E9FEC6718C/link_to_shadow
+[2026-07-23 20:08:32.439] pData:BCD ff04000206a62043b 0010B940B0E9FEC6718C48ca43a5b6dc0F00bf000a09973445000000000000ff0a0900000000000000000000000000000000ff01
+[2026-07-23 20:08:32.439] 
+[2026-07-23 20:08:33.079] [0;32mI (17931297) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:33.079] 
+[2026-07-23 20:08:33.280] free heap: 6300116, minimum free heap: 6019168, Internal 8bit free heap: 71792, 8bit free heap: 6300116The current date/time is: Thu Jul 23 12:08:28 2026
+[2026-07-23 20:08:33.280] 
+[2026-07-23 20:08:33.280] 
+[2026-07-23 20:08:34.210] [0;32mI (17932420) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:34.210] 
+[2026-07-23 20:08:34.255] [0;32mI (17932473) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:34.255] 
+[2026-07-23 20:08:34.347] [0;32mI (17932563) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:34.347] 
+[2026-07-23 20:08:37.933] [0;32mI (17936155) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:37.933] 
+[2026-07-23 20:08:39.063] [0;32mI (17937284) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:39.063] 
+[2026-07-23 20:08:39.140] [0;32mI (17937341) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:39.140] [0;32mI (17937353) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:39.140] 
+[2026-07-23 20:08:41.294] free heap: 6300024, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6300024The current date/time is: Thu Jul 23 12:08:36 2026
+[2026-07-23 20:08:41.294] 
+[2026-07-23 20:08:41.294] 
+[2026-07-23 20:08:43.013] [0;32mI (17941234) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:43.013] 
+[2026-07-23 20:08:44.162] [0;32mI (17942384) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:44.162] 
+[2026-07-23 20:08:44.393] [0;32mI (17942582) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:44.393] [0;32mI (17942610) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:44.393] 
+[2026-07-23 20:08:48.236] [0;32mI (17946450) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:48.236] 
+[2026-07-23 20:08:49.292] free heap: 6245208, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6245208The current date/time is: Thu Jul 23 12:08:44 2026
+[2026-07-23 20:08:49.292] 
+[2026-07-23 20:08:49.292] 
+[2026-07-23 20:08:49.372] [0;32mI (17947587) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:49.372] 
+[2026-07-23 20:08:49.419] [0;32mI (17947634) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:49.419] 
+[2026-07-23 20:08:49.510] [0;32mI (17947729) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:49.510] 
+[2026-07-23 20:08:53.373] [0;32mI (17951581) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:53.373] 
+[2026-07-23 20:08:54.196] [0;32mI (17952403) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:54.196] [0;32mI (17952419) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:54.196] 
+[2026-07-23 20:08:54.799] [0;32mI (17953016) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:54.799] 
+[2026-07-23 20:08:57.292] free heap: 6300152, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300152The current date/time is: Thu Jul 23 12:08:52 2026
+[2026-07-23 20:08:57.292] 
+[2026-07-23 20:08:57.292] 
+[2026-07-23 20:08:58.404] [0;32mI (17956618) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:08:58.404] 
+[2026-07-23 20:08:59.722] [0;32mI (17957930) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:08:59.722] [0;32mI (17957945) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:08:59.722] 
+[2026-07-23 20:08:59.846] [0;32mI (17958055) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:08:59.846] 
+[2026-07-23 20:09:03.200] [0;32mI (17961412) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:03.200] 
+[2026-07-23 20:09:04.333] [0;32mI (17962542) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:04.333] 
+[2026-07-23 20:09:04.534] [0;32mI (17962737) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:04.534] [0;32mI (17962757) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:04.534] 
+[2026-07-23 20:09:05.293] free heap: 6300152, minimum free heap: 6019168, Internal 8bit free heap: 71828, 8bit free heap: 6300152The current date/time is: Thu Jul 23 12:09:00 2026
+[2026-07-23 20:09:05.293] 
+[2026-07-23 20:09:05.293] 
+[2026-07-23 20:09:08.618] [0;32mI (17966841) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:08.618] 
+[2026-07-23 20:09:09.548] [0;32mI (17967748) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:09.548] [0;32mI (17967772) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:09.548] 
+[2026-07-23 20:09:09.672] [0;32mI (17967885) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:09.672] 
+[2026-07-23 20:09:13.331] free heap: 6245164, minimum free heap: 6019168, Internal 8bit free heap: 71656, 8bit free heap: 6245164The current date/time is: Thu Jul 23 12:09:08 2026
+[2026-07-23 20:09:13.331] 
+[2026-07-23 20:09:13.331] 
+[2026-07-23 20:09:13.531] [0;32mI (17971751) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:13.531] 
+[2026-07-23 20:09:14.367] [0;32mI (17972573) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:14.367] [0;32mI (17972581) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:14.367] [0;32mI (17972594) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:14.367] 
+[2026-07-23 20:09:18.364] [0;32mI (17976575) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:18.364] 
+[2026-07-23 20:09:19.478] [0;32mI (17977689) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:19.478] [0;32mI (17977701) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:19.478] 
+[2026-07-23 20:09:19.525] [0;32mI (17977735) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:19.525] 
+[2026-07-23 20:09:21.346] free heap: 6300156, minimum free heap: 6019168, Internal 8bit free heap: 71832, 8bit free heap: 6300156The current date/time is: Thu Jul 23 12:09:16 2026
+[2026-07-23 20:09:21.346] 
+[2026-07-23 20:09:21.346] 
+[2026-07-23 20:09:23.564] [0;32mI (17981773) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:23.564] 
+[2026-07-23 20:09:24.603] [0;32mI (17982818) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:24.603] 
+[2026-07-23 20:09:24.634] [0;32mI (17982854) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:24.634] 
+[2026-07-23 20:09:25.056] [0;32mI (17983265) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:25.056] 
+[2026-07-23 20:09:28.602] [0;32mI (17986813) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:28.602] 
+[2026-07-23 20:09:29.346] free heap: 6300024, minimum free heap: 6019168, Internal 8bit free heap: 71700, 8bit free heap: 6300024The current date/time is: Thu Jul 23 12:09:24 2026
+[2026-07-23 20:09:29.346] 
+[2026-07-23 20:09:29.346] 
+[2026-07-23 20:09:29.858] [0;32mI (17988077) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:29.858] 
+[2026-07-23 20:09:30.121] [0;32mI (17988344) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:30.121] 
+[2026-07-23 20:09:30.168] [0;32mI (17988381) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:30.168] 
+[2026-07-23 20:09:33.754] [0;32mI (17991964) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:33.754] 
+[2026-07-23 20:09:34.577] [0;32mI (17992796) NL_LTPDU: BatchGet 880A64775B01: 6 eps, rsp=113 bytes[0m
+[2026-07-23 20:09:34.577] 
+[2026-07-23 20:09:34.638] [0;32mI (17992850) NL_LTPDU: BatchGet 3E0AE0494182: 6 eps, rsp=120 bytes[0m
+[2026-07-23 20:09:34.638] [0;32mI (17992866) NL_LTPDU: BatchGet 72C743076213: 6 eps, rsp=121 bytes[0m
+[2026-07-23 20:09:34.638] 
+[2026-07-23 20:09:37.378] free heap: 6300112, minimum free heap: 6019168, Internal 8bit free heap: 71788, 8bit free heap: 6300112The current date/time is: Thu Jul 23 12:09:32 2026
+[2026-07-23 20:09:37.378] 
+[2026-07-23 20:09:37.378] 
+[2026-07-23 20:09:38.525] [0;32mI (17996742) NL_LTPDU: BatchGet 7DC653911819: 6 eps, rsp=118 bytes[0m
+[2026-07-23 20:09:38.525] 
